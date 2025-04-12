@@ -1,0 +1,3 @@
+Total Revenue = SUMX('Online Retail', 'Online Retail'[Quantity] * 'Online Retail'[UnitPrice])
+
+Total Quantity = SUM('Online Retail'[Quantity])
