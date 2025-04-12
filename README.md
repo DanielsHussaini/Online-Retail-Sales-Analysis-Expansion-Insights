@@ -30,8 +30,7 @@ To ensure accuracy in analysis, the following cleaning steps were applied:
 1. **Revenue by Country**
 Visual: Map + Bar Chart
 Insight:
-
-🇬🇧 United Kingdom led in revenue, followed by the Netherlands and Germany.
+France led in revenue, followed by the Netherlands and Germany.
 
 These markets show maturity and are potential zones for deeper expansion efforts.
 
@@ -51,7 +50,7 @@ Recommending increased marketing and inventory focus on these items.
 Visual: Line Chart
 Insight:
 
-Sales peaks were observed during [insert peak months].
+Sales peaks were observed during the month of October.
 
 Useful for optimizing inventory management and marketing campaign timing.
 
